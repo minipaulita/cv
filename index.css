@@ -1,0 +1,20 @@
+#language{
+    margin-left: 20px;
+}
+
+.english{
+    margin: 20px;
+}
+
+.resume-picture{
+    max-height: 50%;
+   
+
+}
+
+
+@media (max-width:800px) {
+        .resume-picture{
+            display: none;
+        }
+}
